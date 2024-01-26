@@ -29,7 +29,7 @@
 </br>
 <p align="center">
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>&nbsp
