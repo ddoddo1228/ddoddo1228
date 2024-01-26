@@ -16,7 +16,7 @@
 </div>
 
 <h3 align="center">About me</h3>
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
       <a href="https://www.instagram.com/songeun_1228/">
         <img src="https://img.shields.io/badge/
         Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 <h3 align="center">🔨Techs that I've used at least once🔨</h3>
-<div align="center">
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++&logoColor=white"/>&nbsp
@@ -54,7 +54,7 @@
 </div>
 
 <h3 align="center">🔨Tools</h3>
-<div align="center">
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=flat&logo=Visual Studio&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=Visual Studio Code&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat&logo=VirtualBox&logoColor=white"/>&nbsp
