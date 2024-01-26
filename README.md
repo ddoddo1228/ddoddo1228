@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
 <div align="center">
