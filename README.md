@@ -25,7 +25,9 @@
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
       </a>
-<h3 align="center">🔨Techs that I've used at least once🔨</h3>
+<h3 align="center"><b>🛠 Techs that I've used at least once 🛠</b></h3>
+</br>
+<p align="center">
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>&nbsp
