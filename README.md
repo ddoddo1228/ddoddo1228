@@ -29,7 +29,7 @@
 </br>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=C#&logoColor=white"/>&nbsp
@@ -65,7 +65,6 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=flat&logo=Eclipse IDE&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?style=flat&logo=Apache Tomcat&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white"/>&nbsp
 </div><br>
