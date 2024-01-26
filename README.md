@@ -26,7 +26,7 @@
 
 <br>
 
-<h3 align="center"><b>🛠 Techs that I've used at least once 🛠</b></h3>
+<div align=center><h1>🛠 Techs that I've used at least once 🛠</h1></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
