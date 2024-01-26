@@ -14,7 +14,7 @@
     <br>
 
 </div>
-
+<br>
 <h3 align="center"><b>About me</b></h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 <a href="https://www.instagram.com/songeun_1228/">
@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 </div><br>
+<br>
 
 <h3 align="center"><b>🛠 Techs that I've used at least once 🛠</b></h3>
-</br>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
