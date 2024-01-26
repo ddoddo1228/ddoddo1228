@@ -27,13 +27,10 @@
       </a>
 <h3 align="center"><b>🛠 Techs that I've used at least once 🛠</b></h3>
 </br>
-<p align="center">
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++&logoColor=white"/>&nbsp
-</div>
-  <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C#-512BD4.svg?style=flat&logo=C#&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=white"/>&nbsp
@@ -59,7 +56,6 @@
 </div>
 
 <h3 align="center">🔨Tools</h3>
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=flat&logo=Visual Studio&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=Visual Studio Code&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat&logo=VirtualBox&logoColor=white"/>&nbsp
