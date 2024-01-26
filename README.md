@@ -23,7 +23,7 @@
     </a>
   </div>
 </div>
-
+<br>
 <br>
 
 <div align=center><h1>🛠 Techs that I've used at least once 🛠</h1></div>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=Maria DB&logoColor=white"/>
 </div>
 
 <div align="center">
@@ -58,12 +58,12 @@
 </div>
 
 <br>
-
+<br><br>
 <div align=center><h1>🔨 Tool</h1></div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Virtual Box-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
 </div>
