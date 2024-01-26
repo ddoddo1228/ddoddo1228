@@ -1,5 +1,5 @@
 ###
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SongEun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=55&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SongEun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=57&height=250)
 
 <div align="center">
   <p align="center">
