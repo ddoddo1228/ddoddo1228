@@ -47,6 +47,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=AWS&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900.svg?style=for-the-badge&logo=EC2&logoColor=white"/>&nbsp
@@ -65,6 +67,7 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=flat&logo=Eclipse IDE&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?style=flat&logo=Apache Tomcat&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"/>&nbsp
+  
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white"/>&nbsp
 </div><br>
