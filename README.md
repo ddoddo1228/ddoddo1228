@@ -65,7 +65,8 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=flat&logo=Eclipse IDE&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?style=flat&logo=Apache Tomcat&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white"/>&nbsp
 </div><br>
 </div>
