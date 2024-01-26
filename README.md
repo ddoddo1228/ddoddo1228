@@ -15,7 +15,7 @@
 
 </div>
 
-<h3 align="center">About me</h3>
+### About me
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
       <a href="https://www.instagram.com/songeun_1228/">
         <img src="https://img.shields.io/badge/
@@ -23,7 +23,8 @@
       </a>
       <a href="mailto:zxcvbnm85493@gmail.com">
         <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+      </a>
 <h3 align="center">🔨Techs that I've used at least once🔨</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white" />&nbsp
