@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <h3><b>About me</b></h3>
+<div align=center><h1>📫 About me</h1></div>
   <div style="display:flex; flex-direction:column; align-items:center;">
     <a href="https://www.instagram.com/songeun_1228/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -58,7 +58,7 @@
 
 <br>
 
-<h3 align="center">🔨 Tools</h3>
+<div align=center><h1>🔨 Tool</h1></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
