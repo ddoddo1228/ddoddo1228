@@ -2,14 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SongEun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=52&height=250">
 </div>
 
-<div align="center">
-  <h2>Introduction</h2>
-  <p>안녕하세요! 백엔드 개발자를 꿈꾸는 오송은입니다.</p>
-  <p>🌱 새로운 것에 도전하는 것을 좋아합니다.</p>
-  <p>🌱 다양한 프로젝트를 경험하고 싶습니다.</p>
-  <p>🌱 대학교에 재학 중이며, 끊임없이 성장하고자 노력 중입니다.</p>
-</div>
-
 <br>
 
 <div align="center">
