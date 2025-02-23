@@ -1,23 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SongEun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=52&height=250">
-</div>
-
-<br>
-
-<div align="center">
-<div align=center><h1>📫 About me</h1></div>
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <a href="https://www.instagram.com/songeun_1228/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:zxcvbnm85493@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-    </a>
-  </div>
-</div>
-<br>
-<br>
-
 <div align=center><h1>🛠 Techs that I've used at least once 🛠</h1></div>
 
 <div align="center">
