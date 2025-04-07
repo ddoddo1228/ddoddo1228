@@ -70,8 +70,7 @@
   <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 
-<!-- DevOps / Collaboration -->
-<h4>DevOps / Collaboration</h4>
+<h4>ETC</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
