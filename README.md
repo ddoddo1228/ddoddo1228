@@ -1,5 +1,4 @@
-<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=hits&size=small" alt="hits" /></a>
-<div align="left">
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fddoddo1228?color=green&label=hits&size=small)](https://myhits.vercel.app)<div align="left">
   <h3>✨</h3>
   <p>
     - <strong>Computer Science, 4th year</strong><br>    
